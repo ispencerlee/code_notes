@@ -463,6 +463,32 @@ def greet_user():
 
 greet_user()
 
+# import model 
+eg: 
+    import random, sys, os, math
+
+import random
+
+for i in range(6):
+    print(random.randint(1, 10))
+
+#model import 
+
+import random
+
+for i in range(6):
+    print(random.randint(1, 10))
+
+import sys
+
+while True:
+    print("TYPE 'exit' to exit. ")
+    response = input()
+    if response == 'exit':
+        sys.exit)
+    else:
+        print('You typed ' + response + '.')
+                            
 '''
 #向函数传递信息
 
